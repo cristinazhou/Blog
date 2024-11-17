@@ -28,7 +28,7 @@ system design interview By Alex Xu 中文版
 
 [https://github.com/donnemartin/system-design-primer/tree/master](https://github.com/donnemartin/system-design-primer/tree/master)
 
-<font style="color:rgb(31, 35, 40);">理论+实践涵盖范围都非常齐全。强烈推荐。</font>
+<font style="color:rgb(31, 35, 40);">理论+实践涵盖范围都非常齐全，强烈推荐。</font>
 
 
 
